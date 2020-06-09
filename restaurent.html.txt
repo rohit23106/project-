@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Restaurant Website</title>
+</head>
+<body>
+     
+  <header>
+   <!-- Navigation-->
+ <nav>
+   <ul>
+     <li><a href="#" class="active">Home</a></li>
+     <li><a href="#">About</a></li>
+     <li><a href="#">Menu</a></li>
+      <li><a href="#">Contact</a></li>
+      <li><a href="#">Reviews</a></li>
+     
+   </ul>
+</nav>
+<div class="head">
+      <h1> Hotel Bypass</h1>
+      <p>Are you hungry during this lockdown?</p>
+      So dont worry order food from food corner and have it </p>
+    <p>Dont forget to give us rating</p>
+    <!--End of navigation-->
+  </header>
+    <!--End of header-->
+   <showcase>
+     <div class="container">
+       <h2>Food is our common ground,a universal experience</h2>
+       <h3>All types of biryani's are available</h3>
+       <div class="category">
+         <img src="https://c.ndtvimg.com/2018-10/ohqcobr_handi-biryani_625x300_08_October_18.jpg"/>
+         <h4>Dum biryani</h4>
+        <div class="category">
+          <img src="https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Archana_Doshi/Indian_Chinese_Vegetable_Fried_Rice_Recipe-4.jpg"/>
+          <h5>Veg fried rice</h5>
+         <div class="category">
+           <img src="https://img2.cgtrader.com/items/1876588/6214936027/cold-drinks-fridge-3d-model-max-obj-mtl-fbx.jpg"/>
+           <h6>Soft Drinks</h6>
+          </div>
+         </div>
+       </div>
+       </showcase>
+     <!--End of showcase-->
+     
+     <a href="#"><button class="btn">Read More</button></a>
+</body>
+</html>

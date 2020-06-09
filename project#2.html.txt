@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Project#2 (Final Exam)</title>
+</head>
+<body>
+<div class="header">
+
+<div class="align">
+
+<div class="img">
+<img src="http://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19764.png"/>
+<div class="login">
+<table>
+    <tr>
+     <td><p>Email or phone</p></td>
+     <td><p>Password</p></td>
+<tr>
+    <td><input type="text" class="inputtxt"/></td>
+ <td><input type="password" class="inputtxt"/></td>
+<tr>
+<td><input type="button" class="btn" value="Log In"/></td></tr>
+<tr>
+   <td>&nbsp;</td>
+   <td><a href="s">Forgotten account?</a></td> 
+</tr>
+</tr>
+</table>
+</div>
+</div>
+</div>
+</div>
+<div class="content">
+<div class="left">
+<h1>Facebook helps you connect and share with the people in your life.</h1>
+<img src="https://static.xx.fbcdn.net/rsrc.php/v3/yi/r/OBaVg52wtTZ.png"/>
+</div>
+<div class="right">
+<h2>Create an account</h2>
+<p>It's quick and easy.</p>
+<table>
+<tr>
+    <td><input type="text" placeholder="First name" class="name"></td>
+<td><input type="text" placeholder="Surname" class="name"></td></tr>
+<tr>
+    <td colspan="2"><input type="text" placeholder="Mobile number or email address"
+class="name2"></td>
+</tr>
+<tr>
+<td colspan="2"><input type="password" placeholder="New Password" class="name3"/></td>
+</tr>
+<tr>
+<td><p>Birthday</p></td>
+<tr>
+<td>
+<select class="down">
+<option>Day</option></select>
+<select class="down">
+<option>Month</option></select>
+<select class="down">
+<option>Year</option></select>
+</td>
+</tr>
+</tr>
+<td><p>Gender</p>
+<tr>
+<td><input type="radio" placeholder="Female" class="gender"/>Female</td></tr>
+<td><input type="radio" placeholder="Male" class="gender"/>Male</td></tr>
+<td><input type="radio" placeholder="Male" class="gender"/>Custom</td></tr>
+</td>
+</tr>
+<td><p>By clicking Sign Up, you agree to our Terms, Data Policy and Cookie Policy. You may receive SMS notifications from us and can opt out at any time.</td></p>
+<tr>
+<td><input type="button" class="btn2" value="Sign Up"/></td></tr>
+</table>
+</div>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Thirsty crow</title>
+</head>
+<body>
+<!--Start of header-->
+  <header>
+     <h1>My favorite story</h1>
+    <h2>Thirsty crow</h2>
+     <!--links to story-->
+      <h3>Go to below links to understand story of thirsty crow very interesting story</h3>
+       <li><a href="https://www.lizstoryplanet.com/moral-stories-kids-wisdom/the-thirsty-crow" />Go to lizstoryplanet</a></li>
+      <li><a href="https://jylspassion.wordpress.com/tag/the-crow-and-the-water-pot"/>Go to jylspassion.wordpress.com</a></li>
+  <!--what the story of crow and pot-->
+<div>
+<h2>Whats is the story behind crow and pot</h2>
+<p>One hot day, a thirsty crow was looking for some water to drink. After searching and searching, the crow finally found a pot with some water in it.</p></div>
+<p>The crow was delighted. But when he put its beak into the pot, he couldn't reach the water. There was only a little bit of water at the bottom. The crow thought for a while and came up with a brilliant idea</p>
+<p> The clever crow picked up pebbles and dropped them one by one into the pot. The water inside the pot began to rise and rise until finally, he could drink the water. The crow drank the water and flew away happily.</p></header></div>
+<ul>
+<!--photos of story-->
+<li><img src="https://jylspassion.files.wordpress.com/2014/12/thirsty-crow1.jpg" /></li>
+<li><img src="https://jylspassion.files.wordpress.com/2014/12/thirsty-crow2.jpg" /></li></ul>
+<li>For If any queries or anything new to be added please send a mail to me</li>  
+<li><a href="mailto: 123@example.com">Rohit Majety</a></li>
+<li>Please give rating to story out of 5</li>
+<h4>If you cannot send a mail,fill this form give feedback and review</h4>
+<form>
+<h5>Feedback form</h5>
+<label>Name</label>
+<input type="text" placeholder="name"></input>
+<label>Email</label>
+<input type="text" placeholder="Email"></input>
+<label>Rating</label>
+<input type="number" placeholder="Rating"></input>
+<select>
+<select id="numbers from 1 to 5">
+<button><option value="1">1</option></button>
+<button><option value="2">2</option></button>
+<button><option value="3">3</option></button>
+<button><option value="4">4</option></button>
+<button><option value="5">5</option></button>
+</select>
+<label>Feedback about story</label>
+<input type="text" placeholder="Feedback about story"</input>
+<textarea></textarea>
+<button>SUBMIT</button>
+<!--End of form-->
+<!--start of video-->
+<div>
+<h6>Video of this story</h6>
+<video width="320" height="240" controls>
+  <source src="https://www.w3schools.com/tags/tag_video.asp.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video></div>
+<!--End of video-->
+<!--Start of audio-->
+<h7>Audio</h7>
+<audio controls>
+<source src="https://www.soundsnap.com/tags/crow.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+<!--End of audio-->
+<ul>
+<h7>Moral of story</h7>
+<li>The moral of this story - <strong>"Where there is a will there is a way". </strong></li></ul>
+<!--Start of footer-->
+<footer>
+<h8>Footer</h8>
+<div>
+<p>Ⓒ2020 My story.All right reserved</p></div>
+<li>Done by<em>Rohit Majety</em></footer>
+<!--End of footer-->
+</form>
+</body>
+</html>
